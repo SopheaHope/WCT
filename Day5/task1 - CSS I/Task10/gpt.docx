@@ -1,0 +1,10 @@
+Task 10: Box Model
+CSS box model consists of content, padding, border, and margin.
+
+CSS
+
+.box {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 15px;
+}

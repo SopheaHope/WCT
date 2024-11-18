@@ -1,0 +1,10 @@
+Task 9: Alignment and Display
+Align elements using display, text-align, and flexbox.
+
+CSS
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

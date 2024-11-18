@@ -1,0 +1,8 @@
+Task 5: Style on HTML
+Applying styles directly using the style attribute:
+
+html
+
+<p style="color: red; font-size: 16px;">This text is red and 16px.</p>
+
+Pros: Quick for testing or single-use styles. Cons: Reduces maintainability and reusability of styles.

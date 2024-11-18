@@ -1,0 +1,8 @@
+Task 12: Flexbox
+Flexbox is a layout model for responsive design.
+
+ CSS
+.container {
+    display: flex;
+    justify-content: space-between;
+}

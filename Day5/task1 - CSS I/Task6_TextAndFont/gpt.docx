@@ -1,0 +1,10 @@
+Task 6: Text and Font
+CSS text properties:
+
+css
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
